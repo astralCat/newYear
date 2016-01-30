@@ -1,7 +1,7 @@
 //window.onload = function(){
   var nowType = 0;
 	document.body.innerHTML = '<div id="all"><div class="photo1"></div><div class="photo2"></div><div class="photo1"></div><div class="photo2"></div><div class="photo1"></div><div class="photo2"></div><div class="photo1"></div><div class="photo2"></div><div class="photo1"></div><div class="photo2"></div></div>' + document.body.innerHTML ;
-	document.body.innerHTML += '<div id="closeAnimation"><div class="closeLine"></div><div class="closeLine"></div></div>';
+	document.body.innerHTML += '<div id="closeAnimation"></div>';
 	var W = window.innerWidth;
   var H = window.innerHeight;
 
